@@ -1,5 +1,5 @@
 # OOAD_Project's Ui forms
-Designed by me by Figma
+Designed by me with Figma
 
 May 2022
 ![image_2022-06-06_20-11-51](https://user-images.githubusercontent.com/84022001/215579259-cd7198d3-02a0-460d-9ff2-ccd343769bae.png)
